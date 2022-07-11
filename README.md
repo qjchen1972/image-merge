@@ -4,6 +4,8 @@ A simple program based on  paper<< Object recognition from local scale-invariant
 
 ![](https://github.com/qjchen1972/image-merge/blob/main/img/sim.png)
 
+The above image, the image on the left and the image on the right for recognition, has marked out the area in the whole image to accurately find out the differences
+
 Install
 ===
 * pip install -r requirements.txt
