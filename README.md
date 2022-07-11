@@ -1,7 +1,7 @@
 A simple program based on  paper<< Object recognition from local scale-invariant features>> , The project provides some features:
 * Image merge 
 * image similarity 
-![](https://github.com/qjchen1972/image-merge/blob/master/img/lmcp.png)
+![](https://github.com/qjchen1972/image-merge/blob/master/img/sim.png)
 
 Install
 ===
