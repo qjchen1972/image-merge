@@ -4,7 +4,7 @@ A simple program based on  paper<< Object recognition from local scale-invariant
 
 ![](https://github.com/qjchen1972/image-merge/blob/main/img/sim.png)
 
-The above image, the image on the left and the image on the right for recognition, has marked out the area in the whole image to accurately find out the differences
+In the image above, the left side is the full image, and the image on the right side is used to identify the area in the full image to accurately find out the differences
 
 Install
 ===
