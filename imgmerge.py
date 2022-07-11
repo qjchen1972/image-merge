@@ -338,12 +338,12 @@ if __name__ == '__main__':
     args = parser.parse_args()
     
     if args.m == 0:
-        src = cv2.imread('src/001_001.png')
+        src = cv2.imread('srcimg/001_001.png')
         print(src.shape)
         src = cv2.resize(src, (src.shape[1]//2, src.shape[0]//2))   
         cv_show("src", src)    
         
-        dst = cv2.imread('src/001_002.png')
+        dst = cv2.imread('srcimg/001_002.png')
         print(dst.shape)
         dst = cv2.resize(dst, (dst.shape[1]//2, dst.shape[0]//2))   
         cv_show("src", dst)                
@@ -361,6 +361,6 @@ if __name__ == '__main__':
         cv_show("src", dst)
         img_check(src, dst)
     elif args.m == 2:
-        dir_merge('./src')
+        dir_merge('./srcimg')
     
     
